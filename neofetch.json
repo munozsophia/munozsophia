@@ -1,4 +1,7 @@
 {
+  "image": "https://raw.githubusercontent.com/munozsophia/munozsophia/main/avatar-laptop.svg",
+  "coloredImage": true,
+  "imageScale": 1,
   "sections": [
     {
       "title": "{{username}}@github",
